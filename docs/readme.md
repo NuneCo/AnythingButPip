@@ -3,4 +3,8 @@
  * [Big Picture](big_picture/)
 * Reports
  * by date
-  * [2019-08-31 Discussion Summary](2019-08-31.discussion.md)
+  * [Reports](docs/reports/)
+   * [Dated](docs/reports/dated/)
+    * [2019-08-31 Discussion Summary](docs/reports/dated/2019-08-31.discussion.md)
+   * [Ongoing](docs/reports/ongoing/)
+    [Documentation Methodology](docs.reports/ongoing/documentation methodology.md)
