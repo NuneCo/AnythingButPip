@@ -1,0 +1,25 @@
+# this .gitignore file
+# preserves folder structure
+# in version control
+#
+# @purpose: establish a working folder structure
+#
+# @description:;
+# This version controlled textfile ensures that cloning the repository
+# results in a folder structure correct for immediate use.
+# Additionally, this documentation file demonstrates some autodoc features.
+#
+# @tldr: folder structure marker, file must exist
+
+# administrative
+*.pid
+*.log
+
+# because apple
+.*store
+
+# ignore file backups
+*.*~
+
+# exclude keys
+id_ed25519
